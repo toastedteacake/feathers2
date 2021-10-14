@@ -1,5 +1,5 @@
 # feathers2
-circuitpython code for adafruit feathers2 dev board
+Python and circuitpython code 
+For use on adafruit feathers2 dev board
 
-# github first trial
 
